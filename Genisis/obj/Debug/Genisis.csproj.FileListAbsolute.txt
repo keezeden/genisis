@@ -1,0 +1,7 @@
+H:\Genisis\Genisis\bin\Debug\Genisis.exe.config
+H:\Genisis\Genisis\bin\Debug\Genisis.exe
+H:\Genisis\Genisis\bin\Debug\Genisis.pdb
+H:\Genisis\Genisis\obj\Debug\Genisis.csprojAssemblyReference.cache
+H:\Genisis\Genisis\obj\Debug\Genisis.csproj.CoreCompileInputs.cache
+H:\Genisis\Genisis\obj\Debug\Genisis.exe
+H:\Genisis\Genisis\obj\Debug\Genisis.pdb
