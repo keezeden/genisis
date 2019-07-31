@@ -1,0 +1,14 @@
+H:\Genisis\Genisis\bin\Debug\Genisis.exe.config
+H:\Genisis\Genisis\bin\Debug\Genisis.exe
+H:\Genisis\Genisis\bin\Debug\Genisis.pdb
+H:\Genisis\Genisis\obj\Debug\Genisis.csprojAssemblyReference.cache
+H:\Genisis\Genisis\obj\Debug\Genisis.csproj.CoreCompileInputs.cache
+H:\Genisis\Genisis\obj\Debug\Genisis.exe
+H:\Genisis\Genisis\obj\Debug\Genisis.pdb
+D:\WellyWorkLevelUp\genisis\Genisis\bin\Debug\Genisis.exe.config
+D:\WellyWorkLevelUp\genisis\Genisis\bin\Debug\Genisis.exe
+D:\WellyWorkLevelUp\genisis\Genisis\bin\Debug\Genisis.pdb
+D:\WellyWorkLevelUp\genisis\Genisis\obj\Debug\Genisis.csprojAssemblyReference.cache
+D:\WellyWorkLevelUp\genisis\Genisis\obj\Debug\Genisis.csproj.CoreCompileInputs.cache
+D:\WellyWorkLevelUp\genisis\Genisis\obj\Debug\Genisis.exe
+D:\WellyWorkLevelUp\genisis\Genisis\obj\Debug\Genisis.pdb
