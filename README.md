@@ -1,2 +1,2 @@
-# genisis
+# Genisis
 Voice assistant
